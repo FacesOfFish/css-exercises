@@ -1,0 +1,22 @@
+p {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.pink-background {
+    background-color: #ffc0cb;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#numbertwo {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#numberfour {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
